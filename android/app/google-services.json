@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907087630619",
+    "project_id": "daily-sales-app-6c6d8",
+    "storage_bucket": "daily-sales-app-6c6d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907087630619:android:359ef2e0652d8b0e6c03be",
+        "android_client_info": {
+          "package_name": "com.dailysales.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOUPwe5ODLJK7C1ZWnh7p0CWLmiDVo1zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
